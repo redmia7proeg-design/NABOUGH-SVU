@@ -3,7 +3,8 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import { defineConfig } from 'vite';
 import { VitePWA } from 'vite-plugin-pwa';
-
+  https://vite.dev/config/export defualt defineconfig({plugins: [react()],
+base: '/NABOUGH-SVU/',/NABOUGH-SVU/
 export default defineConfig(() => {
   return {
     plugins: [
